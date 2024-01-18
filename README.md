@@ -23,6 +23,8 @@ CLICK ON THE TITLE TO GO TO THE PROGRAM !! Thank you :)
 
 <h1>APIS</h1>
 <a href = "Apis/Marvel.py">Weather Api (Gives you description and json data for the Weather details for the city with name of city(input) using API of Weather-api)</a>
+<br>
 <a href = "Apis/Crypto.py">Crypto Api (Gives you description and json data for the Crypto Currency with name of currency(input) using API of Coin-Gecko)</a>
+<br>
 <a href = "Apis/Marvel.py">Marvel Api (Gives you description and json data for the marvel character with name of it using API of Marvel-heroic)</a>
 
