@@ -22,16 +22,16 @@ CLICK ON THE TITLE TO GO TO THE PROGRAM !! Thank you :)
 <br><br><hr>
 
 <h1>APIS</h1>
-<h2><a href = "Apis/Marvel.py">Weather Api (Gives you description and json data for the Weather details for the city with name of city(input) using API of Weather-api)</a></h2>
+<h2><a href = "Apis/Marvel.py">Weather Api </a></h2>(Gives you description and json data for the Weather details for the city with name of city(input) using API of Weather-api)
 <br>
 <h2>
   
-<a href = "Apis/Crypto.py">Crypto Api (Gives you description and json data for the Crypto Currency with name of currency(input) using API of Coin-Gecko)</a>
-</h2>
+<a href = "Apis/Crypto.py">Crypto Api </a>
+</h2>(Gives you description and json data for the Crypto Currency with name of currency(input) using API of Coin-Gecko)
 
 <br>
 <h2>
-  <a href = "Apis/Marvel.py">Marvel Api (Gives you description and json data for the marvel character with name of it using API of Marvel-heroic)</a>
-</h2>
+  <a href = "Apis/Marvel.py">Marvel Api</a>
+</h2> (Gives you description and json data for the marvel character with name of it using API of Marvel-heroic)
 
 
